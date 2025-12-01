@@ -41,7 +41,7 @@ A robust JavaFX desktop application for buying and selling cars. This applicatio
 Open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/SamHambunan/Java-Optional-Car.git
+git clone https://github.com/SamHambunan/JavaFX-Car-Selling.git
 cd Java-Optional-Car
 ```
 
