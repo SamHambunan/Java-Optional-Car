@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Java-Optional-Car
-=======
 # Car Selling Application
 
 A JavaFX-based desktop application for buying and selling cars. Users can register, login, add/edit/delete their car listings, search for cars, view detailed car information, and save cars to a watchlist.
